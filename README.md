@@ -41,10 +41,10 @@
 ## Быстрый запуск
 
 1. Убедитесь, что установлен Python 3.10+.
-2. Установите зависимость `tabulate`:
+2. Установите зависимости из файла `requirements.txt`:
 
 ```bash
-python -m pip install tabulate
+python -m pip install -r requirements.txt
 ```
 
 3. Запустите проект на файлах, например:
